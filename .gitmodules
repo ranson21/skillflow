@@ -1,0 +1,15 @@
+[submodule "services/analytics"]
+	path = services/analytics
+	url = git@github.com:ranson21/ranor-analytics
+[submodule "services/tracker"]
+	path = services/tracker
+	url = git@github.com:ranson21/ranor-tracker
+[submodule "services/notifications"]
+	path = services/notifications
+	url = git@github.com:ranson21/ranor-notifications
+[submodule "services/profile"]
+	path = services/profile
+	url = git@github.com:ranson21/ranor-profile
+[submodule "services/auth"]
+	path = services/auth
+	url = git@github.com:ranson21/ranor-auth

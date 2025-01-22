@@ -13,3 +13,6 @@
 [submodule "services/auth"]
 	path = services/auth
 	url = git@github.com:ranson21/ranor-auth
+[submodule "services/common"]
+	path = services/common
+	url = git@github.com:ranson21/ranor-common
